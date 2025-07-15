@@ -4,6 +4,12 @@ API REST para gerenciamento de reclamações de usuários. Desenvolvida com Spri
 
 ---
 
+# DER
+
+[Acesse o DER](https://drive.google.com/file/d/1ab8x9n3n_0RTM7Tyz_TGzU3ilzAilSZk/view?usp=sharing)
+
+---
+
 ## 🚀 Tecnologias
 
 - Java 17
@@ -49,3 +55,8 @@ Para acessar endpoints protegidos, é necessário realizar login e obter um toke
 ## 📝 Autor
 
 Desenvolvido por Nelson Junior.
+
+
+## 📄 Licença
+
+Este projeto está sob a licença MIT.
