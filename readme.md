@@ -7,7 +7,7 @@ API REST para gerenciamento de reclamações de usuários. Desenvolvida com Spri
 ## 🚀 Tecnologias
 
 - Java 17
-- Spring Boot 3.5.3
+- Spring Boot 3.2.5
 - Spring Security
 - JWT (Autenticação)
 - PostgreSQL
